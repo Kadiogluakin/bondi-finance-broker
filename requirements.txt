@@ -1,0 +1,7 @@
+flask==3.0.2
+twilio==9.4.1
+python-dotenv==1.0.1
+requests==2.31.0
+pyngrok==7.1.5
+logging==0.4.9.6
+asyncio==3.4.3 

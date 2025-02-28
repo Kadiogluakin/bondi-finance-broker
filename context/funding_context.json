@@ -1,0 +1,67 @@
+{
+  "history": [
+    {
+      "targetAmount": 205000,
+      "minimumInvestmentAmount": 100,
+      "fundingRemainingDaysUntilEnd": 28,
+      "whaleInvestorThreshold": 5000,
+      "fundingBalance": 23400,
+      "usdcAddress": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+      "bondTokenAddress": "0x8855628D5Fd957feCe626692D1411fee94b11cD7",
+      "distributorAddress": "0x7469d91EC14392b9d7e3ED26F754dA30c60c4C67",
+      "fundingAddress": "0xAEA02eA649e86F6a812559B2B7F32dD5f2843CE0",
+      "ogNftAddress": "0x31412DF1f7bB781CdADbF545F2D7B0cA92AA2df5",
+      "whaleNftAddress": "0xBBC11004B2f846A05c30B3Be13DA4681927476aa",
+      "documents": [],
+      "timestamp": "2025-02-16T17:47:30.680818"
+    },
+    {
+      "targetAmount": 205000,
+      "minimumInvestmentAmount": 100,
+      "fundingRemainingDaysUntilEnd": 28,
+      "whaleInvestorThreshold": 5000,
+      "fundingBalance": 28400,
+      "usdcAddress": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+      "bondTokenAddress": "0x8855628D5Fd957feCe626692D1411fee94b11cD7",
+      "distributorAddress": "0x7469d91EC14392b9d7e3ED26F754dA30c60c4C67",
+      "fundingAddress": "0xAEA02eA649e86F6a812559B2B7F32dD5f2843CE0",
+      "ogNftAddress": "0x31412DF1f7bB781CdADbF545F2D7B0cA92AA2df5",
+      "whaleNftAddress": "0xBBC11004B2f846A05c30B3Be13DA4681927476aa",
+      "documents": [],
+      "timestamp": "2025-02-16T19:49:43.060303",
+      "blockchain_metrics": {
+        "total_investors": 5,
+        "avg_investment": 5680.0,
+        "largest_investment": 0.0,
+        "funding_velocity": 0.0
+      }
+    }
+  ],
+  "latest": {
+    "targetAmount": 205000,
+    "minimumInvestmentAmount": 100,
+    "fundingRemainingDaysUntilEnd": 28,
+    "whaleInvestorThreshold": 5000,
+    "fundingBalance": 28400,
+    "usdcAddress": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+    "bondTokenAddress": "0x8855628D5Fd957feCe626692D1411fee94b11cD7",
+    "distributorAddress": "0x7469d91EC14392b9d7e3ED26F754dA30c60c4C67",
+    "fundingAddress": "0xAEA02eA649e86F6a812559B2B7F32dD5f2843CE0",
+    "ogNftAddress": "0x31412DF1f7bB781CdADbF545F2D7B0cA92AA2df5",
+    "whaleNftAddress": "0xBBC11004B2f846A05c30B3Be13DA4681927476aa",
+    "documents": [],
+    "timestamp": "2025-02-16T19:49:43.060303",
+    "blockchain_metrics": {
+      "total_investors": 5,
+      "avg_investment": 5680.0,
+      "largest_investment": 0.0,
+      "funding_velocity": 0.0
+    }
+  },
+  "metrics": {
+    "total_investors": 1,
+    "avg_investment": 23400.0,
+    "largest_investment": 23400,
+    "funding_velocity": 0.0
+  }
+}

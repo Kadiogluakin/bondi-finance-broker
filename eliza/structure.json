@@ -1,0 +1,152 @@
+[
+  {
+    "title": "\ud83d\ude80 Introduction",
+    "url": "/eliza/docs/intro/",
+    "level": 1
+  },
+  {
+    "title": "\ud83c\udfc1 Getting Started",
+    "url": "/eliza/docs/quickstart/",
+    "level": 1
+  },
+  {
+    "title": "\u2b50 Quick Start",
+    "url": "/eliza/docs/quickstart/",
+    "level": 2
+  },
+  {
+    "title": "\u2753 FAQ",
+    "url": "/eliza/docs/faq/",
+    "level": 2
+  },
+  {
+    "title": "\ud83e\udde0 Core Concepts",
+    "url": "/eliza/docs/core/characterfile/",
+    "level": 1
+  },
+  {
+    "title": "Character Files",
+    "url": "/eliza/docs/core/characterfile/",
+    "level": 2
+  },
+  {
+    "title": "Agents",
+    "url": "/eliza/docs/core/agents/",
+    "level": 2
+  },
+  {
+    "title": "Providers",
+    "url": "/eliza/docs/core/providers/",
+    "level": 2
+  },
+  {
+    "title": "Actions",
+    "url": "/eliza/docs/core/actions/",
+    "level": 2
+  },
+  {
+    "title": "Evaluators",
+    "url": "/eliza/docs/core/evaluators/",
+    "level": 2
+  },
+  {
+    "title": "\ud83d\udcd8 Guides",
+    "url": "/eliza/docs/guides/configuration/",
+    "level": 1
+  },
+  {
+    "title": "Configuration",
+    "url": "/eliza/docs/guides/configuration/",
+    "level": 2
+  },
+  {
+    "title": "Advanced Usage",
+    "url": "/eliza/docs/guides/advanced/",
+    "level": 2
+  },
+  {
+    "title": "Secrets Management",
+    "url": "/eliza/docs/guides/secrets-management/",
+    "level": 2
+  },
+  {
+    "title": "Local Development",
+    "url": "/eliza/docs/guides/local-development/",
+    "level": 2
+  },
+  {
+    "title": "WSL Setup",
+    "url": "/eliza/docs/guides/wsl/",
+    "level": 2
+  },
+  {
+    "title": "\ud83c\udf93 Advanced Topics",
+    "url": "/eliza/docs/advanced/fine-tuning/",
+    "level": 1
+  },
+  {
+    "title": "Fine-tuning",
+    "url": "/eliza/docs/advanced/fine-tuning/",
+    "level": 2
+  },
+  {
+    "title": "Infrastructure",
+    "url": "/eliza/docs/advanced/infrastructure/",
+    "level": 2
+  },
+  {
+    "title": "Trust Engine",
+    "url": "/eliza/docs/advanced/trust-engine/",
+    "level": 2
+  },
+  {
+    "title": "Autonomous Trading",
+    "url": "/eliza/docs/advanced/autonomous-trading/",
+    "level": 2
+  },
+  {
+    "title": "Eliza in TEE",
+    "url": "/eliza/docs/advanced/eliza-in-tee/",
+    "level": 2
+  },
+  {
+    "title": "Verified Inference",
+    "url": "/eliza/docs/advanced/verified-inference/",
+    "level": 2
+  },
+  {
+    "title": "\ud83d\udce6 Packages",
+    "url": "/eliza/docs/packages/",
+    "level": 1
+  },
+  {
+    "title": "Overview",
+    "url": "/eliza/docs/packages/",
+    "level": 2
+  },
+  {
+    "title": "Core Package",
+    "url": "/eliza/docs/packages/core/",
+    "level": 2
+  },
+  {
+    "title": "Database Adapters",
+    "url": "/eliza/docs/packages/adapters/",
+    "level": 2
+  },
+  {
+    "title": "Client Packages",
+    "url": "/eliza/docs/packages/clients/",
+    "level": 2
+  },
+  {
+    "title": "Agent Package",
+    "url": "/eliza/docs/packages/agent/",
+    "level": 2
+  },
+  {
+    "title": "Plugin System",
+    "url": "/eliza/docs/packages/plugins/",
+    "level": 2
+  }
+]
