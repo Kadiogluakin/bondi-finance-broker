@@ -23,6 +23,7 @@ import {
   parseArguments,
 } from "./config/index.ts";
 import { initializeDatabase } from "./database/index.ts";
+import bondiBrokerPlugin from "./plugins/bondi-broker/index.ts";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -59,6 +60,7 @@ export function createAgent(
       bootstrapPlugin,
       nodePlugin,
       character.settings?.secrets?.WALLET_PUBLIC_KEY ? solanaPlugin : null,
+      bondiBrokerPlugin,
     ].filter(Boolean),
     providers: [],
     actions: [],
